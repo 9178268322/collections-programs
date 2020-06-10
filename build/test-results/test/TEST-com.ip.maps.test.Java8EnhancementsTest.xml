@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.maps.test.Java8EnhancementsTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:45:24" hostname="DESKTOP-QA2NH3N" time="0.031">
+  <properties/>
+  <testcase name="testAbsentProduct" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.005"/>
+  <testcase name="testAbsentProductWithEmpty" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.001"/>
+  <testcase name="testAbsentProductWithExisting" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testAbsentProductWithNull" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testDefaultProduct" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testDefaultProductWithExisting" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testDefaultProductWithNull" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testDefaultProductWithProductsEmpty" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.001"/>
+  <testcase name="testDefaultProductWithProductsNull" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.001"/>
+  <testcase name="testReplaceAllProducts" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.012"/>
+  <testcase name="testReplaceAllProductsWithEmpty" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testReplaceAllProductsWithNull" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testReplaceProduct" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.001"/>
+  <testcase name="testReplaceProductWithEmpty" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testReplaceProductWithNoExisting" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <testcase name="testReplaceProductWithNull" classname="com.ip.maps.test.Java8EnhancementsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.test.ProductCatalogueTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:45:25" hostname="DESKTOP-QA2NH3N" time="0.015">
+  <properties/>
+  <testcase name="shouldFindHeavyVanProducts" classname="com.ip.collections.test.ProductCatalogueTest" time="0.006"/>
+  <testcase name="shouldFindLightVanProducts" classname="com.ip.collections.test.ProductCatalogueTest" time="0.0"/>
+  <testcase name="shouldOnlyHoldUniqueProducts" classname="com.ip.collections.test.ProductCatalogueTest" time="0.001"/>
+  <testcase name="testSupplierWithNull" classname="com.ip.collections.test.ProductCatalogueTest" time="0.002"/>
+  <testcase name="testTreeSupplierWithNull" classname="com.ip.collections.test.ProductCatalogueTest" time="0.001"/>
+  <testcase name="treeShouldOnlyHoldUniqueProducts" classname="com.ip.collections.test.ProductCatalogueTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

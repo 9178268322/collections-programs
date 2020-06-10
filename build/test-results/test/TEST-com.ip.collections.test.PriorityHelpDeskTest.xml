@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.test.PriorityHelpDeskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:45:24" hostname="DESKTOP-QA2NH3N" time="0.003">
+  <properties/>
+  <testcase name="testEnquiry" classname="com.ip.collections.test.PriorityHelpDeskTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

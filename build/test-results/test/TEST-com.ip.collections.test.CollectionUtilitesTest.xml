@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.test.CollectionUtilitesTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:45:24" hostname="DESKTOP-QA2NH3N" time="0.068">
+  <properties/>
+  <testcase name="testAddWithOneProduct" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.008"/>
+  <testcase name="testAddproducts" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.028"/>
+  <testcase name="testAddproductsWithEmpty" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testAddproductsWithMultipleNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testAddproductsWithNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.0"/>
+  <testcase name="testAddproductsWithOneNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testAddproductsWithWhiteSpace" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testAddproductsWithWhiteTabSpace" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.003"/>
+  <testcase name="testMaxProductByWeight" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.0"/>
+  <testcase name="testMaxProductWithEmpty" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMaxProductWithMultipleNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMaxProductWithNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMaxProductWithOneNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMaxProductWithTabSpace" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.0"/>
+  <testcase name="testMaxProductWithWhiteSpace" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMinProductByName" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.0"/>
+  <testcase name="testMinProductWithEmpty" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.002"/>
+  <testcase name="testMinProductWithMultipleNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.002"/>
+  <testcase name="testMinProductWithNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.0"/>
+  <testcase name="testMinProductWithOneNull" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.0"/>
+  <testcase name="testMinProductWithTabSpace" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMinProductWithWhiteSpace" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <testcase name="testMinWithOneProductByName" classname="com.ip.collections.test.CollectionUtilitesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

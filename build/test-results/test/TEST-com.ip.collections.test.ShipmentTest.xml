@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.test.ShipmentTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:45:25" hostname="DESKTOP-QA2NH3N" time="0.011">
+  <properties/>
+  <testcase name="shouldAddItems" classname="com.ip.collections.test.ShipmentTest" time="0.0"/>
+  <testcase name="shouldIdentifyVanRequirments" classname="com.ip.collections.test.ShipmentTest" time="0.001"/>
+  <testcase name="shouldNotReplaceMissingItems" classname="com.ip.collections.test.ShipmentTest" time="0.001"/>
+  <testcase name="shouldReplaceItems" classname="com.ip.collections.test.ShipmentTest" time="0.0"/>
+  <testcase name="testNullReplaceItemsWithNull" classname="com.ip.collections.test.ShipmentTest" time="0.001"/>
+  <testcase name="testReplaceItemsWithNull" classname="com.ip.collections.test.ShipmentTest" time="0.003"/>
+  <testcase name="testWithNullReplaceItem" classname="com.ip.collections.test.ShipmentTest" time="0.003"/>
+  <testcase name="testWithOneNull" classname="com.ip.collections.test.ShipmentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

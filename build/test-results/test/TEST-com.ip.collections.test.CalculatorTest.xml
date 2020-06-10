@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.collections.test.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-09T21:45:24" hostname="DESKTOP-QA2NH3N" time="0.071">
+  <properties/>
+  <testcase name="shouldComplexStatements" classname="com.ip.collections.test.CalculatorTest" time="0.068"/>
+  <testcase name="shouldEvaluateConstants" classname="com.ip.collections.test.CalculatorTest" time="0.001"/>
+  <testcase name="shouldSupportAdding" classname="com.ip.collections.test.CalculatorTest" time="0.0"/>
+  <testcase name="shouldSupportSubtraction" classname="com.ip.collections.test.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
